@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es2024",
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"types": ["node"],
+		"moduleDetection": "force",
+		"strict": true,
+		"resolveJsonModule": true,
+		"ignoreDeprecations": "6.0"
+	}
+}
