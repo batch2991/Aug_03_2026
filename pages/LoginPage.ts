@@ -18,4 +18,8 @@ export class LoginPage extends BasePage
     {
        return await this.page.locator(this.errormsg).textContent()
     }
+    public async rememberpwd()
+    {
+        console.log("code to validate pwd")
+    }
 }
