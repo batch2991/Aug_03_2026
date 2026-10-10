@@ -21,5 +21,6 @@ export class LoginPage extends BasePage
     public async rememberpwd()
     {
         console.log("code to validate pwd")
+        console.log("New Word")
     }
 }
