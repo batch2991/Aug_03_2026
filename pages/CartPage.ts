@@ -19,5 +19,9 @@ export class CartPage extends BasePage
      {
           await this.page.locator(this.removebtn).click()          
      }    
+     async f1()
+     {
+          console.log("hello")
+     }
      
 }
