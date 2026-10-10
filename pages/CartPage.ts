@@ -23,8 +23,8 @@ export class CartPage extends BasePage
      {
           console.log("hello")
           console.log("Hello World")
-
           console.log("hi this is new code")
+          console.log("Hi Everyone")
      }
      
 }
