@@ -22,6 +22,7 @@ export class CartPage extends BasePage
      async f1()
      {
           console.log("hello")
+          console.log("Hello World")
      }
      
 }
