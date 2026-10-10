@@ -23,6 +23,7 @@ export class LoginPage extends BasePage
         console.log("code to validate pwd")
         console.log("New Word")
         console.log("update new code")
+        console.log("hello")
         
     }
 }
